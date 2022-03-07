@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    font-family: 'Roboto';
+}
+.container {
+    width: 1440px;
+    height: 1046px;
+    position: relative;
+    background-color: #ffffff;
+}
+h1{
+    font-style: 55px;
+    font-weight: 700;
+    line-height: 55.76px;
+    font-family: 'Roboto Slab' ;
+}
+.photo1{
+    position: absolute;
+    width: 314px;
+    height: 315px;
+    left: 976px;
+    top: 226px;
+
+}
+.photo2{
+    position: absolute;
+    width: 232px;
+    height: 203px;
+    left: 124px;
+    top: 670px;
+}
+main p{
+    position: absolute;
+    width: 662px;
+    height: 374px;
+    left: 124px;
+    top: 202px;  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+}
+.okurse{
+    position: absolute;
+    width: 365px;
+    height: 93px;
+    left: 124px;
+    top: 91px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+.one h1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 488px;
+    top: 740px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px
+}
+.one p{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 488px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+}
+.two h1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 733px;
+    top: 740px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;
+}
+.two p{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 733px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+}
+.three h1{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 976px;
+    top: 740px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;    
+}
+.three p{
+    position: absolute;
+    height: 39px;
+    width: 150px;
+    left: 976px;
+    top: 780px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+}
+.back1{
+    position: absolute;
+    width: 366px;
+    height: 59px;
+    left: 950px;
+    top: 511px;
+}
+.back2{
+    position: absolute;
+    width: 189px;
+    height: 32px;
+    left: 157px;
+    top: 857px;
+}
